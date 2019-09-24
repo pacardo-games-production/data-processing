@@ -1,0 +1,7 @@
+https://oauth.vk.com/authorize?client_id=7144375&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=friends,photos,offline&response_type=token
+
+
+
+https://oauth.vk.com/blank.html#access_token=2e8afce6f0f7ace2cc77737187540e29b857c40379f25f6711ee9b315ff687d383d3a8a3db3b378498cab&expires_in=0&user_id=55564167
+
+#access_token=2e8afce6f0f7ace2cc77737187540e29b857c40379f25f6711ee9b315ff687d383d3a8a3db3b378498
